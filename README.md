@@ -1,4 +1,4 @@
-<h3><a href="https://github.com/ricardonovelot">❮‎‎‎ &nbsp; Recent Projects</a></h3>More actions
+<h3><a href="https://github.com/ricardonovelot">❮‎‎‎ &nbsp; Recent Projects</a></h3>
 
 <h1>Names</h1>
 
